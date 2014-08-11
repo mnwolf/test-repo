@@ -20,6 +20,11 @@ I installed R studio for help learning R.  But still have no idea how to use it 
 |-----|---|---|---|
 |Que pasa PAPA!| a| b| c|
 
+##Now adding extra information to see if I can download the changes form my computer
+Steps taken
+		1. add more information
+		2. figure out how to download
+The `end`.
 
 
 
